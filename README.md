@@ -2,7 +2,9 @@
 
 <strong> Flag: 每月写一篇技术博客 </strong>
 
-$$ E = mc^2 \label{2} $$
+$$ \begin{equation}
+E = mc^2
+\end{equation}  $$
 
 
 
